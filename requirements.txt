@@ -1,0 +1,14 @@
+Flask==2.1.0
+Flask-RESTful==0.3.9
+Flask-SQLAlchemy==2.5.1
+Flask-Migrate==3.1.0
+Flask-JWT-Extended==4.4.0
+SQLAlchemy==1.4.29
+playwright==1.19.0
+pytest==7.0.0
+pytest-playwright==0.3.0
+twilio==7.5.1
+firebase-admin==5.2.0
+pycryptodome==3.14.1
+python-dotenv==0.19.2
+gunicorn==20.1.0
